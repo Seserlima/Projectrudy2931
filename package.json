@@ -1,0 +1,19 @@
+{
+  "name": "projectrudy2931",
+  "version": "1.0.0",
+  "description": "gas oke",
+  "main": "index.js",
+  "scripts": {
+    "test": "oje"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seserlima/Projectrudy2931.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seserlima/Projectrudy2931/issues"
+  },
+  "homepage": "https://github.com/Seserlima/Projectrudy2931#readme"
+}
